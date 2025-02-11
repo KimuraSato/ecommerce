@@ -15,4 +15,5 @@ import lombok.Data;
 
     private int quantity;
     private double price;
+
 }
